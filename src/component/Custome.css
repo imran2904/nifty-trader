@@ -1,0 +1,5 @@
+  .rotate-arrow:hover {
+    transition: 2s;
+    transform: rotate(360deg)  ; 
+  }
+  

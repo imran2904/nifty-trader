@@ -1,0 +1,29 @@
+
+@keyframes slide-left-right {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%); 
+    }
+}
+
+@keyframes slide-right-left {
+    0% {
+      transform: translateX(-100%); 
+    }
+    100% {
+      transform: translateX(0);
+    }
+}
+
+
+.row-slide-left-right {
+    display: flex;
+    animation: slide-left-right 10s linear infinite;
+}
+
+.row-slide-right-left {
+    display: flex;
+    animation: slide-right-left 10s linear infinite;
+}
