@@ -14,9 +14,9 @@ const Header = () => {
         </button>
       </header>
 
-      <div className="sm:flex-row flex flex-col mt-16 justify-between relative z-10">
-        <div className="ml-7 mt-14 space-y-3 text-white">
-          <h1 className="text-4xl font-serif">STOCK SCREENING SIMPLIFIED!</h1>
+      <div className="sm:flex-row  flex flex-col mt-16 justify-between relative z-10">
+        <div className="ml-7  mt-14 space-y-3 text-white">
+          <h1 className="text-3xl w-full font-serif">STOCK SCREENING SIMPLIFIED!</h1>
           <p>
             Find Winning Stock Faster With Nifty Trader's
             <br /> Advance Stock Screening Tool

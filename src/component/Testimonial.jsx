@@ -14,7 +14,6 @@ const Testimonial = () => {
     <div className="flex flex-col mx-7   w-auto justify-center items-center text-center">
       <h1 className="text-2xl font-bold mb-4">Client Testimonial</h1>
       <div className="relative space-y-5 overflow-hidden">
-        {/* First Row */}
         <div className=" space-x-10  row-slide-left-right">
           <img
             className="flex-shrink-0 w-1/2 object-cover"
@@ -38,7 +37,6 @@ const Testimonial = () => {
           />
         </div>
 
-        {/* Second Row */}
         <div className=" space-x-10 row-slide-right-left">
           <img
             className=" w-1/2 h-auto max-w-full object-cover"
