@@ -19,7 +19,7 @@ const Trial = () => {
           Stop wasting time and start winning! Get access to Nifty Trader's
           Stock Screeners today!
         </p>
-        <button className="p-2 w-auto sm:w-56 rounded hover:bg-transparent hover:text-sky-600 hover:border bg-sky-500 text-white">
+        <button className="p-2 w-auto  sm:w-56 rounded hover:bg-transparent hover:text-sky-600 hover:border bg-sky-500 text-white">
           Start Free Trial Now
         </button>
       </div>
